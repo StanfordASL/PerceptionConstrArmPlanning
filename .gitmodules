@@ -1,0 +1,3 @@
+[submodule "motoman"]
+	path = motoman
+	url = https://github.com/tzahroof/motoman.git
