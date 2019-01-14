@@ -5,8 +5,8 @@ This repository contains two packages:
 1. The modified moveit package with perception constraints
 2. The motoman package with robot examples
 
-Follow the instructions in "Restore_L_MoveIt_Documentation.pdf" to set up moveit and anxilliary packages.
-Then, move both packages from this repository to your catkin workspace directory. Don't forget to replace the native moveit package with this build's custom package
+- Follow the instructions in "Restore_L_MoveIt_Documentation.pdf" to set up moveit and anxilliary packages.
+- Then, move both packages from this repository to your catkin workspace directory. Don't forget to replace the native moveit package with this build's custom package
 
 The motoman_sia20d_moveit_updated package features the code from the paper. Type the following to execute:
 
