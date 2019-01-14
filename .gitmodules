@@ -1,3 +1,6 @@
 [submodule "motoman"]
 	path = motoman
 	url = https://github.com/tzahroof/motoman.git
+[submodule "moveit"]
+	path = moveit
+	url = https://github.com/tzahroof/moveit.git
